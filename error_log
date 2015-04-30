@@ -1,0 +1,2 @@
+[28-Apr-2015 14:33:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Data_model::get_all_admin_by_keyword() in /home/design/public_html/creativeinovation/application/controllers/admin.php on line 706
+[28-Apr-2015 14:42:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method Data_model::get_all_admin_by_keyword() in /home/design/public_html/creativeinovation/application/controllers/admin.php on line 706
